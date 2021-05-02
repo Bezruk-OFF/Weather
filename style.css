@@ -1,0 +1,66 @@
+.text-center {
+    text-align: center;
+}
+
+.pricing-table {
+    margin-top: 100px;
+}
+
+.pricing-table .package.featured {
+    margin: auto;
+    border-color: #7E9DC2;
+    border-width: 3px;
+    background: #9EB4D1;
+    min-width: 290px;
+}
+
+.button-primary {
+    background-color: #4B9BF0;
+    color: #fff;
+    border-color: #6AABF2;
+}
+
+.pricing-table .package.featured .package-name {
+    font-size: 36px;
+    font-weight: 400;
+    color: #293453;
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
+.pricing-table .package .price {
+    margin-bottom: 10px;
+    margin-top: 1px;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #293453;
+}
+
+p.feels {
+    font-size: 25px;
+    color: rgb(206, 228, 228);
+}
+
+p.wind {
+    margin-bottom: 1px;
+    margin-top: 10px;
+    /* font-size: 15px; */
+}
+
+p.w {
+    margin-bottom: 1px;
+    font-size: 15px;
+    color: rgb(206, 228, 228);
+}
+
+p.disclaimer {
+    margin-bottom: 1px;
+    margin-top: 10px;
+    font-size: 25px;
+    color: azure;
+}
+
+.features {
+    padding: 1px;
+}
